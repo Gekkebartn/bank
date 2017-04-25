@@ -18,7 +18,8 @@ public class Rekening {
 	}
 	
 	public boolean geldigRekeningNummer()	{
-		
+		long eerste10 = rekeningNummer / 100;
+		int laatste2 = 
 	}
 	
 	
